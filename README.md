@@ -16,9 +16,12 @@ Good quality explanations strengthen the understanding of language models and da
 If you use this work, please cite:
 
 ```bibtex
-@article{kamp2025explanation,
-  title={Explanation Bias is a Product: Revealing the Hidden Lexical and Position Preferences in Post-Hoc Feature Attribution},
-  author={Kamp, Jonathan and Bakker, Roos and Blok, Dominique},
-  journal={arXiv preprint arXiv:2512.11108},
-  year={2026}
+@misc{kamp2026explanationbiasproductrevealing,
+      title={Explanation Bias is a Product: Revealing the Hidden Lexical and Position Preferences in Post-Hoc Feature Attribution}, 
+      author={Jonathan Kamp and Roos Bakker and Dominique Blok},
+      year={2026},
+      eprint={2512.11108},
+      archivePrefix={arXiv},
+      primaryClass={cs.CL},
+      url={https://arxiv.org/abs/2512.11108}, 
 }
